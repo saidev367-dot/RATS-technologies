@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+margin: 100px;
+color: #fefefe;
+margin-top: 40px;
+
+}
+html{
+    background-color:rgb(253, 203, 47)
+
+}
+.yellow-button {
+  background-color: #ffffff;
+  color: #000;
+  text-decoration: none;
+  padding: 12px 24px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 8px;
+  display: inline-block;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.yellow-button:hover {
+  background-color: #fefefe;
+  transform: scale(1.05);
+}
+#phg{
+    margin-left: 60%;
+}
+.id{
+    margin: top;
+}
+
+
